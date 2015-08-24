@@ -1,0 +1,5 @@
+name: EntitiesCleaner
+main: ifteam\EntitiesCleaner\EntitiesCleaner
+version: 0.2-Alpha
+author: ifteam
+api: [1.12.0]
